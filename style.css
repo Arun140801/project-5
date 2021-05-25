@@ -117,8 +117,8 @@ dt {
     border-radius: 50%;
     background: url("./Profile.jpg") no-repeat;
     background-size: 450px 450px;
-    background-top: -0px
-    background-left: +0px
+    background-top: -10px
+    background-left: +10px
     /* border: 3px solid #585858; */
 }
 
