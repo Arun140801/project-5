@@ -23,7 +23,7 @@
     background: #252525;
 }
 
-.light-profile-img {
+.light-Profile-img {
     border: 3px solid #e2d7d7;
 }
 
@@ -45,7 +45,7 @@
     background: white;
 }
 
-.dark-profile-img {
+.dark-Profile-img {
     border: 3px solid #585858;
 }
 
@@ -111,7 +111,7 @@ dt {
     font-size:larger;
 }
 
-#profile-img {
+#Profile-img {
     width: 200px;
     height: 200px;
     border-radius: 50%;
